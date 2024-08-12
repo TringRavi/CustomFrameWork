@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Custom Framework project")
+        print("Custom Framework project12")
         // Do any additional setup after loading the view.
     }
 
